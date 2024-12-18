@@ -9,7 +9,6 @@ This repository contains the source code and assets for my personal portfolio we
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
