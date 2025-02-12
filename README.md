@@ -9,6 +9,7 @@ This repository contains the source code and assets for my personal portfolio we
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Contact](#contact)
 
 ## Features
 
@@ -22,8 +23,9 @@ This repository contains the source code and assets for my personal portfolio we
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **[Bootstrap](https://getbootstrap.com/)**
-- **[Font Awesome](https://fontawesome.com/)**
+- **React.js**
+- **Bootstrap**
+- **Git & GitHub**
 
 ## Getting Started
 
@@ -64,20 +66,30 @@ Contributions are welcome! If you have suggestions for improvements or new featu
    ```bash
    git checkout -b feature-name
    ```
-
 3. **Make your changes**.
 4. **Commit your changes**:
    ```bash
    git commit -m 'Add feature name'
    ```
-
 5. **Push to the branch**:
    ```bash
    git push origin feature-name
    ```
-
 6. **Open a pull request**.
+
+## Contact
+
+For any inquiries, feel free to reach out:
+
+- **Name:** Paula Magdy
+- **Email:** [paulamagdy665@gmail.com](mailto:paulamagdy665@gmail.com)
+- **Portfolio:** [My Portfolio](https://portfolio-ploz.vercel.app/)
+- **GitHub:** [PaulaMagdi0](https://github.com/PaulaMagdi0)
+- **LinkedIn:** [Paula Magdy](https://www.linkedin.com/in/paula-magdy/)
+- **LeetCode:** [Profile](https://leetcode.com/u/4pAckTIlBP/)
+- **HackerRank:** [Profile](https://www.hackerrank.com/profile/paulamagdy665)
 
 ---
 
 Thank you for visiting my portfolio!
+
