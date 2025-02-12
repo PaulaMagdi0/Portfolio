@@ -48,7 +48,7 @@ To view the portfolio locally or make modifications, follow these steps:
 
 4. **Run the project locally**:
    ```bash
-   npm start
+   npm run dev
    ```
 
 5. **Open `index.html` in your preferred web browser** if necessary.
