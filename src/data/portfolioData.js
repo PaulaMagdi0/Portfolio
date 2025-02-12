@@ -16,7 +16,7 @@ export const portfolioData = {
         "A full-stack book management web application built with the MERN stack (MongoDB, Express.js, React.js, and Node.js). It offers secure user authentication, efficient book catalog management, advanced search functionality, and a fully responsive UI for a seamless reading experience.",
       liveLink: "https://bookhub-psi.vercel.app/",
       sourceCode: "https://github.com/PaulaMagdi0/MERN-Stack-Project-ITI",
-      image: "/assets/bookhub.png",
+      image: "/src/assets/bookhub.png",
     },
     {
       title: "Trendify",
@@ -24,7 +24,7 @@ export const portfolioData = {
         "A dynamic and responsive e-commerce web application built with Vanilla JavaScript, HTML, and CSS. Features include product listings, a shopping cart, and a streamlined checkout process, delivering a seamless shopping experience.",
       liveLink: "https://e-commerce-vanilla.vercel.app/",
       sourceCode: "https://github.com/PaulaMagdi0/e-commerce-vanilla",
-      image: "/assets/trendify.png",
+      image: "/src/assets/trendify.png",
     },
     {
       title: "Gericht Restaurant",
@@ -32,7 +32,7 @@ export const portfolioData = {
         "A modern and responsive restaurant website designed to showcase the menu and allow customers to book tables online. Built with HTML, CSS, JavaScript, and React.",
       liveLink: "https://dapper-malasada-ccc5e9.netlify.app/",
       sourceCode: "https://github.com/PaulaMagdi0/Gericht-Restaurant",
-      image: "/assets/Gericht.png",
+      image: "/src/assets/Gericht.png",
     },
     {
       title: "Shopping",
@@ -40,7 +40,7 @@ export const portfolioData = {
         "An e-commerce website for a clothing store, providing a catalog of products available for purchase. Built using HTML, CSS, JavaScript, and React to deliver a smooth and responsive user experience.",
       liveLink: "https://peaceful-praline-2d4d8e.netlify.app/",
       sourceCode: "https://github.com/PaulaMagdi0/E_commerce",
-      image: "/assets/Shopping.png",
+      image: "/src/assets/Shopping.png",
     },
     {
       title: "Rock Paper Scissors",
@@ -49,7 +49,7 @@ export const portfolioData = {
       liveLink:
         "https://rock-paper-scissors-71wy7al53-paula-magdys-projects.vercel.app/",
       sourceCode: "https://github.com/PaulaMagdi0/Rock-Paper-Scissors",
-      image: "/assets/rock-paper-scissors.png",
+      image: "/src/assets/rock-paper-scissors.png",
     },
     {
       title: "RoboFriends",
@@ -57,7 +57,7 @@ export const portfolioData = {
         "My first React application that allows users to interact with virtual robots and implements Redux for state management. Developed a responsive interface using HTML, CSS, JavaScript, React, and Redux.",
       liveLink: "https://bucolic-medovik-9c990e.netlify.app/",
       sourceCode: "https://github.com/PaulaMagdi0/RoboFriends",
-      image: "/assets/RoboFriends.png",
+      image: "/src/assets/RoboFriends.png",
     },
   ],
   contact: {
