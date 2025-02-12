@@ -6,43 +6,31 @@
   font-weight: bold;
   line-height: 1;
   z-index: 1;
-  transition: all cubic-bezier(0.19, 1, 0.22, 1) 0.6s;
+  transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
 
   &::after {
     content: "";
-    display: block;
     position: absolute;
-    width: 0px;
+    width: 0;
     height: 100%;
     left: 0;
     bottom: 0;
     z-index: -1;
-    transition: all cubic-bezier(0.19, 1, 0.22, 1) 0.3s;
+    transition: width 0.3s ease-in-out;
+  }
+
+  &:hover::after {
+    width: 100%;
   }
 }
 
 /* Hero Style */
 .cta-btn--hero {
   @include supportColorForIE11();
-  border-width: 2px;
-  border-style: solid;
-  -moz-border-image: -moz-linear-gradient(
-    135deg,
-    $primary-color 0%,
-    $secondary-color 100%
-  );
-  -webkit-border-image: -webkit-linear-gradient(
-    135deg,
-    $primary-color 0%,
-    $secondary-color 100%
-  );
-  border-image: linear-gradient(
-    135deg,
-    $primary-color 0%,
-    $secondary-color 100%
-  );
-  -webkit-border-image-slice: 1;
+  border: 2px solid transparent;
+  border-image: linear-gradient(135deg, $primary-color 0%, $secondary-color 100%);
   border-image-slice: 1;
+
   @include supportIE11() {
     color: $secondary-color !important;
     &:hover {
@@ -51,33 +39,24 @@
   }
 
   @include respond(phone) {
-    background-image: none;
-    border: 2px solid $secondary-color;
+    background: none;
+    border-color: $secondary-color;
     -webkit-text-fill-color: $secondary-color;
   }
 
   &::after {
-    background-image: linear-gradient(
-      135deg,
-      $primary-color 0%,
-      $secondary-color 100%
-    );
+    background-image: linear-gradient(135deg, $primary-color 0%, $secondary-color 100%);
 
     @include respond(phone) {
-      background-image: none;
+      background: none;
     }
   }
 
   &:hover {
     -webkit-text-fill-color: $white-color;
-    text-decoration: none;
 
     @include respond(phone) {
       -webkit-text-fill-color: $secondary-color;
-    }
-
-    &::after {
-      width: 100%;
     }
   }
 }
@@ -93,11 +72,6 @@
 
   &:hover {
     color: $secondary-color;
-    text-decoration: none;
-
-    &::after {
-      width: 100%;
-    }
   }
 }
 

@@ -1,17 +1,25 @@
-@import "./sass/vendors/bootstrap.scss";
+@charset "UTF-8";
 
+// 1. Vendors
+@import "./sass/vendors/bootstrap";
+
+// 2. Abstract things
 @import "./sass/abstracts/mixins";
 @import "./sass/abstracts/variables";
 @import "./sass/abstracts/helpers";
 
+// 3. Base stuff
 @import "./sass/base/base";
 @import "./sass/base/typography";
 
+// 4. Components
 @import "./sass/components/buttons";
 
+// 5. Layout-related sections
 @import "./sass/layout/footer";
 @import "./sass/layout/sections";
 
+// 6. Page-specific styles
 @import "./sass/sections/about";
 @import "./sass/sections/contact";
 @import "./sass/sections/hero";
