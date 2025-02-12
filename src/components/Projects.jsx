@@ -38,7 +38,7 @@ const ProjectItem = ({ title, description, image, liveLink, sourceCode }) => (
             className="thumbnail rounded js-tilt"
           >
             <img
-              alt={`${title} preview`}
+              alt={`${title}`}
               className="img-fluid"
               src={image}
               loading="lazy"
