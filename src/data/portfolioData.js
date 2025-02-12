@@ -13,7 +13,7 @@ export const portfolioData = {
       "description": "•A full-stack book management web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js).It offers secure user authentication, efficient book catalog management, advanced search functionality, and a fully responsive UI, ensuring a seamless and intuitive reading experience.",
       "liveLink": "https://bookhub-psi.vercel.app/",
       "sourceCode": "https://github.com/PaulaMagdi0/MERN-Stack-Project-ITI",
-      "image": "/src/assets/bookhub.png"
+      "image": "../assets/bookhub.png"
     },
     {
       "title": "Trendify",
