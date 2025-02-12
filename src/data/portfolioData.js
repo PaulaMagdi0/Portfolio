@@ -13,35 +13,35 @@ export const portfolioData = {
       "description": "•A full-stack book management web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js).It offers secure user authentication, efficient book catalog management, advanced search functionality, and a fully responsive UI, ensuring a seamless and intuitive reading experience.",
       "liveLink": "https://bookhub-psi.vercel.app/",
       "sourceCode": "https://github.com/PaulaMagdi0/MERN-Stack-Project-ITI",
-      "image": "/src/assets/bookhub.png"
+      "image": "https://res.cloudinary.com/dprqu9dci/image/upload/v1739388531/bookhub_cmuymd.png"
     },
     {
       "title": "Trendify",
       "description": "A dynamic and responsive e-commerce web application built with Vanilla JavaScript, HTML, and CSS.Features include product listings, a shopping cart, and a streamlined checkout process, delivering a seamless user shopping experience.",
       "liveLink": "https://e-commerce-vanilla.vercel.app/",
       "sourceCode": "https://github.com/PaulaMagdi0/e-commerce-vanilla",
-      "image": "/src/assets/trendify.png"
+      "image": "https://res.cloudinary.com/dprqu9dci/image/upload/v1739388536/trendify_nvgkm7.png"
     },
     {
       "title": "Gericht Restaurant",
       "description": "Developed and launched a responsive website to offer the easiest way to know what in the menu of the restaurant and booking tables for customers. By using HTML, CSS, JavaScript and React.",
       "liveLink": "https://dapper-malasada-ccc5e9.netlify.app/",
       "sourceCode": "https://github.com/PaulaMagdi0/Gericht-Restaurant",
-      "image": "/src/assets/Gericht.png"
+      "image": "https://res.cloudinary.com/dprqu9dci/image/upload/v1739388535/Gericht_d7tjls.png"
     },
     {
       "title": "Shopping",
       "description": "This project deals with developing an e-commerce website for Clothes Store. It provides the user with a catalog of different product available for purchase in the store. Developed and launched a responsive website using HTML, CSS, JavaScript and React.",
       "liveLink": "https://peaceful-praline-2d4d8e.netlify.app/",
       "sourceCode": "https://github.com/PaulaMagdi0/E_commerce",
-      "image": "/src/assets/Shopping.png"
+      "image": "https://res.cloudinary.com/dprqu9dci/image/upload/v1739388536/Shopping_exlaup.png"
     },
     {
       "title": "Rock Paper Scissors",
       "description": "A fun and interactive web-based game of Rock, Paper, Scissors, where users can play against the computer or challenge a friend. Built using [HTML, CSS, and JavaScript] to create a responsive and interactive user interface.",
       "liveLink": "https://rock-paper-scissors-71wy7al53-paula-magdys-projects.vercel.app/",
       "sourceCode": "https://github.com/PaulaMagdi0/Rock-Paper-Scissors",
-      "image": "/src/assets/rock-paper-scissors.png"
+      "image": "https://res.cloudinary.com/dprqu9dci/image/upload/v1739388536/rock-paper-scissors_iz54af.png"
     },
     // {
     //   "title": "Calculator",
@@ -62,7 +62,7 @@ export const portfolioData = {
       "description": "It was my first react application to play with robots and add Redux to the app. Developed and launched a responsive website using HTML, CSS, JavaScript, React and Redux.",
       "liveLink": "https://bucolic-medovik-9c990e.netlify.app/",
       "sourceCode": "https://github.com/PaulaMagdi0/RoboFriends",
-      "image": "/src/assets/RoboFriends.png"
+      "image": "https://res.cloudinary.com/dprqu9dci/image/upload/v1739388535/RoboFriends_tao5x8.png"
     },
   ],
   "contact": {
