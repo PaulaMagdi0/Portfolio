@@ -41,7 +41,7 @@ export const portfolioData = {
       "description": "A fun and interactive web-based game of Rock, Paper, Scissors, where users can play against the computer or challenge a friend. Built using [HTML, CSS, and JavaScript] to create a responsive and interactive user interface.",
       "liveLink": "https://rock-paper-scissors-71wy7al53-paula-magdys-projects.vercel.app/",
       "sourceCode": "https://github.com/PaulaMagdi0/Rock-Paper-Scissors",
-      "image": "https://res.cloudinary.com/dprqu9dci/image/upload/v1739388536/rock-paper-scissors_iz54af.png"
+      "image": "https://res.cloudinary.com/dprqu9dci/image/upload/v1740506051/rock-paper-scissors_j9crop.png"
     },
     // {
     //   "title": "Calculator",
